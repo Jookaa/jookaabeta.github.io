@@ -1,0 +1,13 @@
+Package: com.supermamon.newpackage
+Version: 1.0
+Section: Tweaks
+Maintainer: Jookaa
+Depends: com.anemonetheming.anemone, com.codethemed.iconbundles
+Architecture: iphoneos-arm
+Filename: ./debs/com.jookaa.bnhatheme_1.1_iphoneos-arm.deb
+Size: 928
+MD5sum: 4e5c2a68631cfdf7bf1db73c08f1488f
+Description: Pre-release
+Name: Boku No Hero Academia
+Author: Jookaa
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
