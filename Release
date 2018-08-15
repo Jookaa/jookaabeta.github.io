@@ -1,8 +1,8 @@
-Origin: Jookaa
+Origin: Jookaa's Repo
 Label: Jookaa
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: Jookaa
 Architectures: iphoneos-arm
 Components: main
-Description: Jookaa's Repo
+Description: Jookaa's Tweaks
