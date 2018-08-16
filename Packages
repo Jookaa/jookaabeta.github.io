@@ -1,12 +1,12 @@
 Package: com.jookaa.bnhatheme
-Version: 1.2
+Version: 1.3
 Section: Themes
 Depends: com.anemonetheming.anemone, com.codethemed.iconbundles
 Architecture: iphoneos-arm
-Filename: debs/com.jookaa.bnhatheme_1.2_iphoneos-arm.deb
+Filename: debs/com.jookaa.bnhatheme_1.3_iphoneos-arm.deb
 Size: 949750
-MD5sum: 3b10c2388eac9716b912502743e0a1a9
-Description: Read this, if you don't I'll know cause tatanungin kita haha.
+MD5sum: 5953fb9c1fc6977e45e7ecfcd83fdfb2
+Description: "Your" final version (´・ω・`)
 Name: Boku No Hero Academia
 Author: Jookaa
 Maintainer: Jookaa
