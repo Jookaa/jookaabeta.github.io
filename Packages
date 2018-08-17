@@ -11,7 +11,7 @@ Name: Boku No Hero Academia
 Author: Jookaa
 Maintainer: Jookaa
 
-Package: com.jookaa.bnhatheme
+Package: com.jookaa.bnhathemegabby
 Version: 1.5.1
 Section: Themes
 Depends: com.anemonetheming.anemone, com.codethemed.iconbundles
@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Filename: debs/com.jookaa.bnhatheme_1.5.1_iphoneos-arm.deb
 Size: 15572992
 MD5sum: d93d5bfd9179696bb0aa1cebc8248388
-Description: With respring animation
+Description: Gabby Version
 Name: Boku No Hero Academia (Gabby)
 Author: Jookaa
 Maintainer: Jookaa
