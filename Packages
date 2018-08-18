@@ -1,24 +1,24 @@
 Package: com.jookaa.bnhatheme
-Version: 2
+Version: 3.0
 Section: Themes
 Depends: com.anemonetheming.anemone, com.codethemed.iconbundles
 Architecture: iphoneos-arm
-Filename: debs/com.jookaa.bnhatheme_2_iphoneos-arm.deb
-Size: 3196304
-MD5sum: 992df6b75c6e1cc09ba10de120a9ac28
+Filename: debs/com.jookaa.bnhatheme_3.0_iphoneos-arm.deb
+Size: 3252224
+MD5sum: 095d6bdebc1c2e3269464cf7dea23315
 Description: Clock added
 Name: Boku No Hero Academia
 Author: Jookaa
 Maintainer: Jookaa
 
 Package: com.jookaa.bnhathemegabby
-Version: 1.5.1
+Version: 2.0
 Section: Themes
 Depends: com.anemonetheming.anemone, com.codethemed.iconbundles
 Architecture: iphoneos-arm
-Filename: debs/com.jookaa.bnhatheme_gabby_1.5.1_iphoneos-arm.deb
-Size: 15572992
-MD5sum: d93d5bfd9179696bb0aa1cebc8248388
+Filename: debs/com.jookaa.bnhathemegabby_2.0_iphoneos-arm.deb
+Size: 6234112
+MD5sum: 095d6bdebc1c2e3269464cf7dea23315
 Description: Gabby Version
 Name: Boku No Hero Academia (Gabby)
 Author: Jookaa
